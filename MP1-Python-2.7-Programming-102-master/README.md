@@ -12,6 +12,6 @@ drinks chosen by the user based on a specified calorie amount.
 
 
 
-![alt text](https://github.com/mtecim/MP1-Python-2.7-Programming-102/blob/master/img.png)
+![alt text](https://github.com/mtecim/Python-2.7-Programming-102/blob/master/MP1-Python-2.7-Programming-102-master/img.png)
 
 
