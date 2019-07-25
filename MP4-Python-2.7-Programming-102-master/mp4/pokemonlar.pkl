@@ -1,0 +1,4264 @@
+(dp0
+S'CHARMELEON'
+p1
+(dp2
+S'Category'
+p3
+VFlame
+p4
+sS'Abilities'
+p5
+VBlaze
+p6
+sS'Weight'
+p7
+V41.9 lbs
+p8
+sS'Weaknesses'
+p9
+(lp10
+VGround\u000a	  \u000a	                
+p11
+aVRock\u000a	  \u000a	                
+p12
+aVWater\u000a	  \u000a	                
+p13
+asS'Height'
+p14
+V3' 07"
+p15
+sS'pokeno'
+p16
+V#005
+p17
+sS'ResimURL'
+p18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/005.png
+p19
+ssS'GOLEM'
+p20
+(dp21
+g3
+VMegaton
+p22
+sg5
+VRock Head
+p23
+sg7
+V661.4 lbs
+p24
+sg9
+(lp25
+VElectric\u000a	  \u000a	                
+p26
+aVGround\u000a	  \u000a	                
+p27
+aVPsychic\u000a	  \u000a	                
+p28
+asg14
+V4' 07"
+p29
+sg16
+V#076
+p30
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/076.png
+p31
+ssS'ELECTABUZZ'
+p32
+(dp33
+g3
+VElectric
+p34
+sg5
+VStatic
+p35
+sg7
+V66.1 lbs
+p36
+sg9
+(lp37
+VGround\u000a	  \u000a	                
+p38
+asg14
+V3' 07"
+p39
+sg16
+V#125
+p40
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/125.png
+p41
+ssS'RAICHU'
+p42
+(dp43
+g3
+VMouse
+p44
+sg5
+VStatic
+p45
+sg7
+V66.1 lbs
+p46
+sg9
+(lp47
+VGround\u000a	  \u000a	                
+p48
+asg14
+V2' 07"
+p49
+sg16
+V#026
+p50
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/026.png
+p51
+ssS'STARMIE'
+p52
+(dp53
+g3
+VMysterious
+p54
+sg5
+VNatural Cure
+p55
+sg7
+V176.4 lbs
+p56
+sg9
+(lp57
+VBug\u000a	  \u000a	                
+p58
+aVDark\u000a	  \u000a	                
+p59
+aVElectric\u000a	  \u000a	                
+p60
+aVGhost\u000a	  \u000a	                
+p61
+aVGrass\u000a	  \u000a	                
+p62
+asg14
+V3' 07"
+p63
+sg16
+V#121
+p64
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/121.png
+p65
+ssS'JYNX'
+p66
+(dp67
+g3
+VHuman Shape
+p68
+sg5
+VOblivious
+p69
+sg7
+V89.5 lbs
+p70
+sg9
+(lp71
+VRock\u000a	  \u000a	                  \u000a
+p72
+aVElectric\u000a	  \u000a	                
+p73
+aVFire\u000a	  \u000a	                
+p74
+aVFlying\u000a	  \u000a	                
+p75
+aVIce\u000a	  \u000a	                
+p76
+asg14
+V4' 07"
+p77
+sg16
+V#124
+p78
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/124.png
+p79
+ssS'DODRIO'
+p80
+(dp81
+g3
+VTriple Bird
+p82
+sg5
+VRun Away
+p83
+sg7
+V187.8 lbs
+p84
+sg9
+(lp85
+VElectric\u000a	  \u000a	                
+p86
+aVIce\u000a	  \u000a	                
+p87
+aVRock\u000a	  \u000a	                
+p88
+asg14
+V5' 11"
+p89
+sg16
+V#085
+p90
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/085.png
+p91
+ssS'SLOWPOKE'
+p92
+(dp93
+g3
+VDopey
+p94
+sg5
+VOblivious
+p95
+sg7
+V79.4 lbs
+p96
+sg9
+(lp97
+VBug\u000a	  \u000a	                
+p98
+aVDark\u000a	  \u000a	                
+p99
+aVElectric\u000a	  \u000a	                
+p100
+aVGhost\u000a	  \u000a	                
+p101
+aVGrass\u000a	  \u000a	                
+p102
+asg14
+V3' 11"
+p103
+sg16
+V#079
+p104
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/079.png
+p105
+ssS'PIDGEY'
+p106
+(dp107
+g3
+VTiny Bird
+p108
+sg5
+VKeen Eye
+p109
+sg7
+V4.0 lbs
+p110
+sg9
+(lp111
+VElectric\u000a	  \u000a	                
+p112
+aVIce\u000a	  \u000a	                
+p113
+aVRock\u000a	  \u000a	                
+p114
+asg14
+V1' 00"
+p115
+sg16
+V#016
+p116
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/016.png
+p117
+ssS'MEWTWO'
+p118
+(dp119
+g3
+VGenetic
+p120
+sg5
+VPressure
+p121
+sg7
+V269.0 lbs
+p122
+sg9
+(lp123
+VBug\u000a	  \u000a	                
+p124
+aVDark\u000a	  \u000a	                
+p125
+aVGhost\u000a	  \u000a	                
+p126
+asg14
+V6' 07"
+p127
+sg16
+V#150
+p128
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/150.png
+p129
+ssS'ARCANINE'
+p130
+(dp131
+g3
+VLegendary
+p132
+sg5
+VIntimidate
+p133
+sg7
+V341.7 lbs
+p134
+sg9
+(lp135
+VGround\u000a	  \u000a	                
+p136
+aVRock\u000a	  \u000a	                
+p137
+aVWater\u000a	  \u000a	                
+p138
+asg14
+V6' 03"
+p139
+sg16
+V#059
+p140
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/059.png
+p141
+ssS'BULBASAUR'
+p142
+(dp143
+g3
+VSeed
+p144
+sg5
+VOvergrow
+p145
+sg7
+V15.2 lbs
+p146
+sg9
+(lp147
+VFire\u000a	  \u000a	                
+p148
+aVFlying\u000a	  \u000a	                
+p149
+aVIce\u000a	  \u000a	                
+p150
+aVPsychic\u000a	  \u000a	                
+p151
+asg14
+V2' 04"
+p152
+sg16
+V#001
+p153
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/001.png
+p154
+ssS'SANDSLASH'
+p155
+(dp156
+g3
+VMouse
+p157
+sg5
+VSand Veil
+p158
+sg7
+V65.0 lbs
+p159
+sg9
+(lp160
+VGrass\u000a	  \u000a	                
+p161
+aVIce\u000a	  \u000a	                
+p162
+aVWater\u000a	  \u000a	                
+p163
+asg14
+V3' 03"
+p164
+sg16
+V#028
+p165
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/028.png
+p166
+ssS'DRAGONAIR'
+p167
+(dp168
+g3
+VDragon
+p169
+sg5
+VShed Skin
+p170
+sg7
+V36.4 lbs
+p171
+sg9
+(lp172
+VDragon\u000a	  \u000a	                
+p173
+aVIce\u000a	  \u000a	                
+p174
+aVFairy\u000a	  \u000a	                
+p175
+asg14
+V13' 01"
+p176
+sg16
+V#148
+p177
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/148.png
+p178
+ssS'VENUSAUR'
+p179
+(dp180
+g3
+VSeed
+p181
+sg5
+VOvergrow
+p182
+sg7
+V220.5 lbs
+p183
+sg9
+(lp184
+VFire\u000a	  \u000a	                
+p185
+aVFlying\u000a	  \u000a	                
+p186
+aVIce\u000a	  \u000a	                
+p187
+aVPsychic\u000a	  \u000a	                
+p188
+asg14
+V6' 07"
+p189
+sg16
+V#003
+p190
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/003.png
+p191
+ssS'DRATINI'
+p192
+(dp193
+g3
+VDragon
+p194
+sg5
+VShed Skin
+p195
+sg7
+V7.3 lbs
+p196
+sg9
+(lp197
+VDragon\u000a	  \u000a	                
+p198
+aVIce\u000a	  \u000a	                
+p199
+aVFairy\u000a	  \u000a	                
+p200
+asg14
+V5' 11"
+p201
+sg16
+V#147
+p202
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/147.png
+p203
+ssS'CHARMANDER'
+p204
+(dp205
+g3
+VLizard
+p206
+sg5
+VBlaze
+p207
+sg7
+V18.7 lbs
+p208
+sg9
+(lp209
+VGround\u000a	  \u000a	                
+p210
+aVRock\u000a	  \u000a	                
+p211
+aVWater\u000a	  \u000a	                
+p212
+asg14
+V2' 00"
+p213
+sg16
+V#004
+p214
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/004.png
+p215
+ssS'ARTICUNO'
+p216
+(dp217
+g3
+VFreeze
+p218
+sg5
+VPressure
+p219
+sg7
+V122.1 lbs
+p220
+sg9
+(lp221
+VRock\u000a	  \u000a	                  \u000a
+p222
+aVElectric\u000a	  \u000a	                
+p223
+aVFire\u000a	  \u000a	                
+p224
+aVSteel\u000a	  \u000a	                
+p225
+asg14
+V5' 07"
+p226
+sg16
+V#144
+p227
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/144.png
+p228
+ssS'POLIWAG'
+p229
+(dp230
+g3
+VTadpole
+p231
+sg5
+VDamp
+p232
+sg7
+V27.3 lbs
+p233
+sg9
+(lp234
+VElectric\u000a	  \u000a	                
+p235
+aVGrass\u000a	  \u000a	                
+p236
+asg14
+V2' 00"
+p237
+sg16
+V#060
+p238
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/060.png
+p239
+ssS'NIDOQUEEN'
+p240
+(dp241
+g3
+VDrill
+p242
+sg5
+VPoison Point
+p243
+sg7
+V132.3 lbs
+p244
+sg9
+(lp245
+VGround\u000a	  \u000a	                
+p246
+aVIce\u000a	  \u000a	                
+p247
+aVPsychic\u000a	  \u000a	                
+p248
+aVWater\u000a	  \u000a	                
+p249
+asg14
+V4' 03"
+p250
+sg16
+V#031
+p251
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/031.png
+p252
+ssS'SPEAROW'
+p253
+(dp254
+g3
+VTiny Bird
+p255
+sg5
+VKeen Eye
+p256
+sg7
+V4.4 lbs
+p257
+sg9
+(lp258
+VElectric\u000a	  \u000a	                
+p259
+aVIce\u000a	  \u000a	                
+p260
+aVRock\u000a	  \u000a	                
+p261
+asg14
+V1' 00"
+p262
+sg16
+V#021
+p263
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/021.png
+p264
+ssS'PINSIR'
+p265
+(dp266
+g3
+VStag Beetle
+p267
+sg5
+VHyper Cutter
+p268
+sg7
+V121.3 lbs
+p269
+sg9
+(lp270
+VFire\u000a	  \u000a	                
+p271
+aVFlying\u000a	  \u000a	                
+p272
+aVRock\u000a	  \u000a	                
+p273
+asg14
+V4' 11"
+p274
+sg16
+V#127
+p275
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/127.png
+p276
+ssS'IVYSAUR'
+p277
+(dp278
+g3
+VSeed
+p279
+sg5
+VOvergrow
+p280
+sg7
+V28.7 lbs
+p281
+sg9
+(lp282
+VFire\u000a	  \u000a	                
+p283
+aVFlying\u000a	  \u000a	                
+p284
+aVIce\u000a	  \u000a	                
+p285
+aVPsychic\u000a	  \u000a	                
+p286
+asg14
+V3' 03"
+p287
+sg16
+V#002
+p288
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/002.png
+p289
+ssS'MAGMAR'
+p290
+(dp291
+g3
+VSpitfire
+p292
+sg5
+VFlame Body
+p293
+sg7
+V98.1 lbs
+p294
+sg9
+(lp295
+VGround\u000a	  \u000a	                
+p296
+aVRock\u000a	  \u000a	                
+p297
+aVWater\u000a	  \u000a	                
+p298
+asg14
+V4' 03"
+p299
+sg16
+V#126
+p300
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/126.png
+p301
+ssS'CUBONE'
+p302
+(dp303
+g3
+VLonely
+p304
+sg5
+VRock Head
+p305
+sg7
+V14.3 lbs
+p306
+sg9
+(lp307
+VGrass\u000a	  \u000a	                
+p308
+aVIce\u000a	  \u000a	                
+p309
+aVWater\u000a	  \u000a	                
+p310
+asg14
+V1' 04"
+p311
+sg16
+V#104
+p312
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/104.png
+p313
+ssS'GYARADOS'
+p314
+(dp315
+g3
+VAtrocious
+p316
+sg5
+VIntimidate
+p317
+sg7
+V518.1 lbs
+p318
+sg9
+(lp319
+VElectric\u000a	  \u000a	                  \u000a
+p320
+aVRock\u000a	  \u000a	                
+p321
+asg14
+V21' 04"
+p322
+sg16
+V#130
+p323
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/130.png
+p324
+ssS'GOLDEEN'
+p325
+(dp326
+g3
+VGoldfish
+p327
+sg5
+VSwift Swim
+p328
+sg7
+V33.1 lbs
+p329
+sg9
+(lp330
+VElectric\u000a	  \u000a	                
+p331
+aVGrass\u000a	  \u000a	                
+p332
+asg14
+V2' 00"
+p333
+sg16
+V#118
+p334
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/118.png
+p335
+ssS'FEAROW'
+p336
+(dp337
+g3
+VBeak
+p338
+sg5
+VKeen Eye
+p339
+sg7
+V83.8 lbs
+p340
+sg9
+(lp341
+VElectric\u000a	  \u000a	                
+p342
+aVIce\u000a	  \u000a	                
+p343
+aVRock\u000a	  \u000a	                
+p344
+asg14
+V3' 11"
+p345
+sg16
+V#022
+p346
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/022.png
+p347
+ssS'SHELLDER'
+p348
+(dp349
+g3
+VBivalve
+p350
+sg5
+VShell Armor
+p351
+sg7
+V8.8 lbs
+p352
+sg9
+(lp353
+VElectric\u000a	  \u000a	                
+p354
+aVGrass\u000a	  \u000a	                
+p355
+asg14
+V1' 00"
+p356
+sg16
+V#090
+p357
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/090.png
+p358
+ssS'GRIMER'
+p359
+(dp360
+g3
+VSludge
+p361
+sg5
+VStench
+p362
+sg7
+V66.1 lbs
+p363
+sg9
+(lp364
+VGround\u000a	  \u000a	                
+p365
+aVPsychic\u000a	  \u000a	                
+p366
+asg14
+V2' 11"
+p367
+sg16
+V#088
+p368
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/088.png
+p369
+ssS'OMASTAR'
+p370
+(dp371
+g3
+VSpiral
+p372
+sg5
+VShell Armor
+p373
+sg7
+V77.2 lbs
+p374
+sg9
+(lp375
+VGrass\u000a	  \u000a	                  \u000a
+p376
+aVElectric\u000a	  \u000a	                
+p377
+aVFighting\u000a	  \u000a	                
+p378
+aVGround\u000a	  \u000a	                
+p379
+asg14
+V3' 03"
+p380
+sg16
+V#139
+p381
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/139.png
+p382
+ssS'WEEPINBELL'
+p383
+(dp384
+g3
+VFlycatcher
+p385
+sg5
+VChlorophyll
+p386
+sg7
+V14.1 lbs
+p387
+sg9
+(lp388
+VFire\u000a	  \u000a	                
+p389
+aVFlying\u000a	  \u000a	                
+p390
+aVIce\u000a	  \u000a	                
+p391
+aVPsychic\u000a	  \u000a	                
+p392
+asg14
+V3' 03"
+p393
+sg16
+V#070
+p394
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/070.png
+p395
+ssS'PONYTA'
+p396
+(dp397
+g3
+VFire Horse
+p398
+sg5
+VRun Away
+p399
+sg7
+V66.1 lbs
+p400
+sg9
+(lp401
+VGround\u000a	  \u000a	                
+p402
+aVRock\u000a	  \u000a	                
+p403
+aVWater\u000a	  \u000a	                
+p404
+asg14
+V3' 03"
+p405
+sg16
+V#077
+p406
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/077.png
+p407
+ssS'MEOWTH'
+p408
+(dp409
+g3
+VScratch Cat
+p410
+sg5
+VPickup
+p411
+sg7
+V9.3 lbs
+p412
+sg9
+(lp413
+VFighting\u000a	  \u000a	                
+p414
+asg14
+V1' 04"
+p415
+sg16
+V#052
+p416
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/052.png
+p417
+ssS'BLASTOISE'
+p418
+(dp419
+g3
+VShellfish
+p420
+sg5
+VTorrent
+p421
+sg7
+V188.5 lbs
+p422
+sg9
+(lp423
+VElectric\u000a	  \u000a	                
+p424
+aVGrass\u000a	  \u000a	                
+p425
+asg14
+V5' 03"
+p426
+sg16
+V#009
+p427
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/009.png
+p428
+ssS'EXEGGUTOR'
+p429
+(dp430
+g3
+VCoconut
+p431
+sg5
+VChlorophyll
+p432
+sg7
+V264.6 lbs
+p433
+sg9
+(lp434
+VGround\u000a	  \u000a	                
+p435
+asg14
+V6' 07"
+p436
+sg16
+V#103
+p437
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/103.png
+p438
+ssS'BUTTERFREE'
+p439
+(dp440
+g3
+VButterfly
+p441
+sg5
+VCompound Eyes
+p442
+sg7
+V70.5 lbs
+p443
+sg9
+(lp444
+VRock\u000a	  \u000a	                  \u000a
+p445
+aVElectric\u000a	  \u000a	                
+p446
+aVFire\u000a	  \u000a	                
+p447
+aVFlying\u000a	  \u000a	                
+p448
+aVIce\u000a	  \u000a	                
+p449
+asg14
+V3' 07"
+p450
+sg16
+V#012
+p451
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/012.png
+p452
+ssS'KRABBY'
+p453
+(dp454
+g3
+VRiver Crab
+p455
+sg5
+VShell Armor
+p456
+sg7
+V14.3 lbs
+p457
+sg9
+(lp458
+VElectric\u000a	  \u000a	                
+p459
+aVGrass\u000a	  \u000a	                
+p460
+asg14
+V1' 04"
+p461
+sg16
+V#098
+p462
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/098.png
+p463
+ssS'MAGNEMITE'
+p464
+(dp465
+g3
+VMagnet
+p466
+sg5
+VSturdy
+p467
+sg7
+V13.2 lbs
+p468
+sg9
+(lp469
+VGround\u000a	  \u000a	                  \u000a
+p470
+aVFire\u000a	  \u000a	                
+p471
+aVFighting\u000a	  \u000a	                
+p472
+asg14
+V1' 00"
+p473
+sg16
+V#081
+p474
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/081.png
+p475
+ssS'KANGASKHAN'
+p476
+(dp477
+g3
+VParent
+p478
+sg5
+VEarly Bird
+p479
+sg7
+V176.4 lbs
+p480
+sg9
+(lp481
+VFighting\u000a	  \u000a	                
+p482
+asg14
+V7' 03"
+p483
+sg16
+V#115
+p484
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/115.png
+p485
+ssS'GRAVELER'
+p486
+(dp487
+g3
+VRock
+p488
+sg5
+VRock Head
+p489
+sg7
+V231.5 lbs
+p490
+sg9
+g25
+sg14
+V3' 03"
+p491
+sg16
+V#075
+p492
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/075.png
+p493
+ssS'SEADRA'
+p494
+(dp495
+g3
+VDragon
+p496
+sg5
+VPoison Point
+p497
+sg7
+V55.1 lbs
+p498
+sg9
+(lp499
+VElectric\u000a	  \u000a	                
+p500
+aVGrass\u000a	  \u000a	                
+p501
+asg14
+V3' 11"
+p502
+sg16
+V#117
+p503
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/117.png
+p504
+ssS'MR-MIME'
+p505
+(dp506
+g3
+VBarrier
+p507
+sg5
+VSoundproof
+p508
+sg7
+V120.1 lbs
+p509
+sg9
+(lp510
+VGhost\u000a	  \u000a	                
+p511
+aVSteel\u000a	  \u000a	                
+p512
+aVPoison\u000a	  \u000a	                
+p513
+asg14
+V4' 03"
+p514
+sg16
+V#122
+p515
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/122.png
+p516
+ssS'RHYDON'
+p517
+(dp518
+g3
+VDrill
+p519
+sg5
+VRock Head
+p520
+sg7
+V264.6 lbs
+p521
+sg9
+(lp522
+VPsychic\u000a	  \u000a	                
+p523
+asg14
+V6' 03"
+p524
+sg16
+V#112
+p525
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/112.png
+p526
+ssS'PERSIAN'
+p527
+(dp528
+g3
+VClassy Cat
+p529
+sg5
+VTechnician
+p530
+sg7
+V70.5 lbs
+p531
+sg9
+(lp532
+VFighting\u000a	  \u000a	                
+p533
+asg14
+V3' 03"
+p534
+sg16
+V#053
+p535
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/053.png
+p536
+ssS'ODDISH'
+p537
+(dp538
+g3
+VWeed
+p539
+sg5
+VChlorophyll
+p540
+sg7
+V11.9 lbs
+p541
+sg9
+(lp542
+VFire\u000a	  \u000a	                
+p543
+aVFlying\u000a	  \u000a	                
+p544
+aVIce\u000a	  \u000a	                
+p545
+aVPsychic\u000a	  \u000a	                
+p546
+asg14
+V1' 08"
+p547
+sg16
+V#043
+p548
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/043.png
+p549
+ssS'ZAPDOS'
+p550
+(dp551
+g3
+VElectric
+p552
+sg5
+VPressure
+p553
+sg7
+V116.0 lbs
+p554
+sg9
+(lp555
+VIce\u000a	  \u000a	                
+p556
+aVRock\u000a	  \u000a	                
+p557
+asg14
+V5' 03"
+p558
+sg16
+V#145
+p559
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/145.png
+p560
+ssS'CLEFABLE'
+p561
+(dp562
+g3
+VFairy
+p563
+sg5
+VCute Charm
+p564
+sg7
+V88.2 lbs
+p565
+sg9
+(lp566
+VSteel\u000a	  \u000a	                
+p567
+aVPoison\u000a	  \u000a	                
+p568
+asg14
+V4' 03"
+p569
+sg16
+V#036
+p570
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/036.png
+p571
+ssS'ARBOK'
+p572
+(dp573
+g3
+VCobra
+p574
+sg5
+VShed Skin
+p575
+sg7
+V143.3 lbs
+p576
+sg9
+(lp577
+VGround\u000a	  \u000a	                
+p578
+aVPsychic\u000a	  \u000a	                
+p579
+asg14
+V11' 06"
+p580
+sg16
+V#024
+p581
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/024.png
+p582
+ssS'DODUO'
+p583
+(dp584
+g3
+VTwin Bird
+p585
+sg5
+VRun Away
+p586
+sg7
+V86.4 lbs
+p587
+sg9
+(lp588
+VElectric\u000a	  \u000a	                
+p589
+aVIce\u000a	  \u000a	                
+p590
+aVRock\u000a	  \u000a	                
+p591
+asg14
+V4' 07"
+p592
+sg16
+V#084
+p593
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/084.png
+p594
+ssS'SQUIRTLE'
+p595
+(dp596
+g3
+VTiny Turtle
+p597
+sg5
+VTorrent
+p598
+sg7
+V19.8 lbs
+p599
+sg9
+(lp600
+VElectric\u000a	  \u000a	                
+p601
+aVGrass\u000a	  \u000a	                
+p602
+asg14
+V1' 08"
+p603
+sg16
+V#007
+p604
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/007.png
+p605
+ssS'MAROWAK'
+p606
+(dp607
+g3
+VBone Keeper
+p608
+sg5
+VRock Head
+p609
+sg7
+V99.2 lbs
+p610
+sg9
+(lp611
+VGrass\u000a	  \u000a	                
+p612
+aVIce\u000a	  \u000a	                
+p613
+aVWater\u000a	  \u000a	                
+p614
+asg14
+V3' 03"
+p615
+sg16
+V#105
+p616
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/105.png
+p617
+ssS'PRIMEAPE'
+p618
+(dp619
+g3
+VPig Monkey
+p620
+sg5
+VVital Spirit
+p621
+sg7
+V70.5 lbs
+p622
+sg9
+(lp623
+VFlying\u000a	  \u000a	                
+p624
+aVPsychic\u000a	  \u000a	                
+p625
+aVFairy\u000a	  \u000a	                
+p626
+asg14
+V3' 03"
+p627
+sg16
+V#057
+p628
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/057.png
+p629
+ssS'PSYDUCK'
+p630
+(dp631
+g3
+VDuck
+p632
+sg5
+VDamp
+p633
+sg7
+V43.2 lbs
+p634
+sg9
+(lp635
+VElectric\u000a	  \u000a	                
+p636
+aVGrass\u000a	  \u000a	                
+p637
+asg14
+V2' 07"
+p638
+sg16
+V#054
+p639
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/054.png
+p640
+ssS'CHARIZARD'
+p641
+(dp642
+g3
+VFlame
+p643
+sg5
+VBlaze
+p644
+sg7
+V199.5 lbs
+p645
+sg9
+(lp646
+VRock\u000a	  \u000a	                  \u000a
+p647
+aVElectric\u000a	  \u000a	                
+p648
+aVWater\u000a	  \u000a	                
+p649
+asg14
+V5' 07"
+p650
+sg16
+V#006
+p651
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/006.png
+p652
+ssS'AERODACTYL'
+p653
+(dp654
+g3
+VFossil
+p655
+sg5
+VRock Head
+p656
+sg7
+V130.1 lbs
+p657
+sg9
+(lp658
+VElectric\u000a	  \u000a	                
+p659
+aVIce\u000a	  \u000a	                
+p660
+aVRock\u000a	  \u000a	                
+p661
+aVSteel\u000a	  \u000a	                
+p662
+aVWater\u000a	  \u000a	                
+p663
+asg14
+V5' 11"
+p664
+sg16
+V#142
+p665
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/142.png
+p666
+ssS'CLOYSTER'
+p667
+(dp668
+g3
+VBivalve
+p669
+sg5
+VShell Armor
+p670
+sg7
+V292.1 lbs
+p671
+sg9
+(lp672
+VElectric\u000a	  \u000a	                
+p673
+aVFighting\u000a	  \u000a	                
+p674
+aVGrass\u000a	  \u000a	                
+p675
+aVRock\u000a	  \u000a	                
+p676
+asg14
+V4' 11"
+p677
+sg16
+V#091
+p678
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/091.png
+p679
+ssS'SLOWBRO'
+p680
+(dp681
+g3
+VHermit Crab
+p682
+sg5
+VOblivious
+p683
+sg7
+V173.1 lbs
+p684
+sg9
+(lp685
+VBug\u000a	  \u000a	                
+p686
+aVDark\u000a	  \u000a	                
+p687
+aVElectric\u000a	  \u000a	                
+p688
+aVGhost\u000a	  \u000a	                
+p689
+aVGrass\u000a	  \u000a	                
+p690
+asg14
+V5' 03"
+p691
+sg16
+V#080
+p692
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/080.png
+p693
+ssS'ALAKAZAM'
+p694
+(dp695
+g3
+VPsi
+p696
+sg5
+VInner Focus
+p697
+sg7
+V105.8 lbs
+p698
+sg9
+(lp699
+VBug\u000a	  \u000a	                
+p700
+aVDark\u000a	  \u000a	                
+p701
+aVGhost\u000a	  \u000a	                
+p702
+asg14
+V4' 11"
+p703
+sg16
+V#065
+p704
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/065.png
+p705
+ssS'HYPNO'
+p706
+(dp707
+g3
+VHypnosis
+p708
+sg5
+VInsomnia
+p709
+sg7
+V166.7 lbs
+p710
+sg9
+(lp711
+VBug\u000a	  \u000a	                
+p712
+aVDark\u000a	  \u000a	                
+p713
+aVGhost\u000a	  \u000a	                
+p714
+asg14
+V5' 03"
+p715
+sg16
+V#097
+p716
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/097.png
+p717
+ssS'MEW'
+p718
+(dp719
+g3
+VNew Species
+p720
+sg5
+VSynchronize
+p721
+sg7
+V8.8 lbs
+p722
+sg9
+(lp723
+VBug\u000a	  \u000a	                
+p724
+aVDark\u000a	  \u000a	                
+p725
+aVGhost\u000a	  \u000a	                
+p726
+asg14
+V1' 04"
+p727
+sg16
+V#151
+p728
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/151.png
+p729
+ssS'ONIX'
+p730
+(dp731
+g3
+VRock Snake
+p732
+sg5
+VRock Head
+p733
+sg7
+V463.0 lbs
+p734
+sg9
+(lp735
+VDark\u000a	  \u000a	                
+p736
+aVGhost\u000a	  \u000a	                
+p737
+aVPsychic\u000a	  \u000a	                
+p738
+asg14
+V28' 10"
+p739
+sg16
+V#095
+p740
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/095.png
+p741
+ssS'DEWGONG'
+p742
+(dp743
+g3
+VSea Lion
+p744
+sg5
+VThick Fat
+p745
+sg7
+V264.6 lbs
+p746
+sg9
+(lp747
+VElectric\u000a	  \u000a	                
+p748
+aVFighting\u000a	  \u000a	                
+p749
+aVGrass\u000a	  \u000a	                
+p750
+aVRock\u000a	  \u000a	                
+p751
+asg14
+V5' 07"
+p752
+sg16
+V#087
+p753
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/087.png
+p754
+ssS'VOLTORB'
+p755
+(dp756
+g3
+VBall
+p757
+sg5
+VStatic
+p758
+sg7
+V22.9 lbs
+p759
+sg9
+(lp760
+VGround\u000a	  \u000a	                
+p761
+asg14
+V1' 08"
+p762
+sg16
+V#100
+p763
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/100.png
+p764
+ssS'BEEDRILL'
+p765
+(dp766
+g3
+VPoison Bee
+p767
+sg5
+VSwarm
+p768
+sg7
+V65.0 lbs
+p769
+sg9
+(lp770
+VFire\u000a	  \u000a	                
+p771
+aVFlying\u000a	  \u000a	                
+p772
+aVPsychic\u000a	  \u000a	                
+p773
+aVRock\u000a	  \u000a	                
+p774
+asg14
+V3' 03"
+p775
+sg16
+V#015
+p776
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/015.png
+p777
+ssS'GROWLITHE'
+p778
+(dp779
+g3
+VPuppy
+p780
+sg5
+VIntimidate
+p781
+sg7
+V41.9 lbs
+p782
+sg9
+(lp783
+VGround\u000a	  \u000a	                
+p784
+aVRock\u000a	  \u000a	                
+p785
+aVWater\u000a	  \u000a	                
+p786
+asg14
+V2' 04"
+p787
+sg16
+V#058
+p788
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/058.png
+p789
+ssS'SANDSHREW'
+p790
+(dp791
+g3
+VMouse
+p792
+sg5
+VSand Veil
+p793
+sg7
+V26.5 lbs
+p794
+sg9
+(lp795
+VGrass\u000a	  \u000a	                
+p796
+aVIce\u000a	  \u000a	                
+p797
+aVWater\u000a	  \u000a	                
+p798
+asg14
+V2' 00"
+p799
+sg16
+V#027
+p800
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/027.png
+p801
+ssS'RATICATE'
+p802
+(dp803
+g3
+VMouse
+p804
+sg5
+VRun Away
+p805
+sg7
+V40.8 lbs
+p806
+sg9
+(lp807
+VFighting\u000a	  \u000a	                
+p808
+asg14
+V2' 04"
+p809
+sg16
+V#020
+p810
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/020.png
+p811
+ssS'ELECTRODE'
+p812
+(dp813
+g3
+VBall
+p814
+sg5
+VStatic
+p815
+sg7
+V146.8 lbs
+p816
+sg9
+g434
+sg14
+V3' 11"
+p817
+sg16
+V#101
+p818
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/101.png
+p819
+ssS'WEEZING'
+p820
+(dp821
+g3
+VPoison Gas
+p822
+sg5
+VLevitate
+p823
+sg7
+V20.9 lbs
+p824
+sg9
+g522
+sg14
+V3' 11"
+p825
+sg16
+V#110
+p826
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/110.png
+p827
+ssS'RATTATA'
+p828
+(dp829
+g3
+VMouse
+p830
+sg5
+VRun Away
+p831
+sg7
+V7.7 lbs
+p832
+sg9
+(lp833
+VFighting\u000a	  \u000a	                
+p834
+asg14
+V1' 00"
+p835
+sg16
+V#019
+p836
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/019.png
+p837
+ssS'TANGELA'
+p838
+(dp839
+g3
+VVine
+p840
+sg5
+VChlorophyll
+p841
+sg7
+V77.2 lbs
+p842
+sg9
+(lp843
+VBug\u000a	  \u000a	                
+p844
+aVFire\u000a	  \u000a	                
+p845
+aVFlying\u000a	  \u000a	                
+p846
+aVIce\u000a	  \u000a	                
+p847
+aVPoison\u000a	  \u000a	                
+p848
+asg14
+V3' 03"
+p849
+sg16
+V#114
+p850
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/114.png
+p851
+ssS'GLOOM'
+p852
+(dp853
+g3
+VWeed
+p854
+sg5
+VChlorophyll
+p855
+sg7
+V19.0 lbs
+p856
+sg9
+(lp857
+VFire\u000a	  \u000a	                
+p858
+aVFlying\u000a	  \u000a	                
+p859
+aVIce\u000a	  \u000a	                
+p860
+aVPsychic\u000a	  \u000a	                
+p861
+asg14
+V2' 07"
+p862
+sg16
+V#044
+p863
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/044.png
+p864
+ssS'FLAREON'
+p865
+(dp866
+g3
+VFlame
+p867
+sg5
+VFlash Fire
+p868
+sg7
+V55.1 lbs
+p869
+sg9
+(lp870
+VGround\u000a	  \u000a	                
+p871
+aVRock\u000a	  \u000a	                
+p872
+aVWater\u000a	  \u000a	                
+p873
+asg14
+V2' 11"
+p874
+sg16
+V#136
+p875
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/136.png
+p876
+ssS'PIDGEOT'
+p877
+(dp878
+g3
+VBird
+p879
+sg5
+VKeen Eye
+p880
+sg7
+V87.1 lbs
+p881
+sg9
+(lp882
+VElectric\u000a	  \u000a	                
+p883
+aVIce\u000a	  \u000a	                
+p884
+aVRock\u000a	  \u000a	                
+p885
+asg14
+V4' 11"
+p886
+sg16
+V#018
+p887
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/018.png
+p888
+ssS'DRAGONITE'
+p889
+(dp890
+g3
+VDragon
+p891
+sg5
+VInner Focus
+p892
+sg7
+V463.0 lbs
+p893
+sg9
+(lp894
+VIce\u000a	  \u000a	                  \u000a
+p895
+aVDragon\u000a	  \u000a	                
+p896
+aVRock\u000a	  \u000a	                
+p897
+aVFairy\u000a	  \u000a	                
+p898
+asg14
+V7' 03"
+p899
+sg16
+V#149
+p900
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/149.png
+p901
+ssS'RHYHORN'
+p902
+(dp903
+g3
+VSpikes
+p904
+sg5
+VRock Head
+p905
+sg7
+V253.5 lbs
+p906
+sg9
+g522
+sg14
+V3' 03"
+p907
+sg16
+V#111
+p908
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/111.png
+p909
+ssS'MACHOP'
+p910
+(dp911
+g3
+VSuperpower
+p912
+sg5
+VGuts
+p913
+sg7
+V43.0 lbs
+p914
+sg9
+(lp915
+VFlying\u000a	  \u000a	                
+p916
+aVPsychic\u000a	  \u000a	                
+p917
+aVFairy\u000a	  \u000a	                
+p918
+asg14
+V2' 07"
+p919
+sg16
+V#066
+p920
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/066.png
+p921
+ssS'FARFETCHD'
+p922
+(dp923
+g3
+VWild Duck
+p924
+sg5
+VKeen Eye
+p925
+sg7
+V33.1 lbs
+p926
+sg9
+(lp927
+VElectric\u000a	  \u000a	                
+p928
+aVIce\u000a	  \u000a	                
+p929
+aVRock\u000a	  \u000a	                
+p930
+asg14
+V2' 07"
+p931
+sg16
+V#083
+p932
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/083.png
+p933
+ssS'EKANS'
+p934
+(dp935
+g3
+VSnake
+p936
+sg5
+VShed Skin
+p937
+sg7
+V15.2 lbs
+p938
+sg9
+(lp939
+VGround\u000a	  \u000a	                
+p940
+aVPsychic\u000a	  \u000a	                
+p941
+asg14
+V6' 07"
+p942
+sg16
+V#023
+p943
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/023.png
+p944
+ssS'KADABRA'
+p945
+(dp946
+g3
+VPsi
+p947
+sg5
+VInner Focus
+p948
+sg7
+V124.6 lbs
+p949
+sg9
+(lp950
+VBug\u000a	  \u000a	                
+p951
+aVDark\u000a	  \u000a	                
+p952
+aVGhost\u000a	  \u000a	                
+p953
+asg14
+V4' 03"
+p954
+sg16
+V#064
+p955
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/064.png
+p956
+ssS'EXEGGCUTE'
+p957
+(dp958
+g3
+VEgg
+p959
+sg5
+VChlorophyll
+p960
+sg7
+V5.5 lbs
+p961
+sg9
+g434
+sg14
+V1' 04"
+p962
+sg16
+V#102
+p963
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/102.png
+p964
+ssS'METAPOD'
+p965
+(dp966
+g3
+VCocoon
+p967
+sg5
+VShed Skin
+p968
+sg7
+V21.8 lbs
+p969
+sg9
+(lp970
+VFire\u000a	  \u000a	                
+p971
+aVFlying\u000a	  \u000a	                
+p972
+aVRock\u000a	  \u000a	                
+p973
+asg14
+V2' 04"
+p974
+sg16
+V#011
+p975
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/011.png
+p976
+ssS'SNORLAX'
+p977
+(dp978
+g3
+VSleeping
+p979
+sg5
+VThick Fat
+p980
+sg7
+V1014.1 lbs
+p981
+sg9
+(lp982
+VFighting\u000a	  \u000a	                
+p983
+asg14
+V6' 11"
+p984
+sg16
+V#143
+p985
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/143.png
+p986
+ssS'KABUTO'
+p987
+(dp988
+g3
+VShellfish
+p989
+sg5
+VSwift Swim
+p990
+sg7
+V25.4 lbs
+p991
+sg9
+(lp992
+VGrass\u000a	  \u000a	                  \u000a
+p993
+aVElectric\u000a	  \u000a	                
+p994
+aVFighting\u000a	  \u000a	                
+p995
+aVGround\u000a	  \u000a	                
+p996
+asg14
+V1' 08"
+p997
+sg16
+V#140
+p998
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/140.png
+p999
+ssS'JOLTEON'
+p1000
+(dp1001
+g3
+VLightning
+p1002
+sg5
+VVolt Absorb
+p1003
+sg7
+V54.0 lbs
+p1004
+sg9
+(lp1005
+VGround\u000a	  \u000a	                
+p1006
+asg14
+V2' 07"
+p1007
+sg16
+V#135
+p1008
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/135.png
+p1009
+ssS'EEVEE'
+p1010
+(dp1011
+g3
+VEvolution
+p1012
+sg5
+VRun Away
+p1013
+sg7
+V14.3 lbs
+p1014
+sg9
+(lp1015
+VFighting\u000a	  \u000a	                
+p1016
+asg14
+V1' 00"
+p1017
+sg16
+V#133
+p1018
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/133.png
+p1019
+ssS'STARYU'
+p1020
+(dp1021
+g3
+VStar Shape
+p1022
+sg5
+VNatural Cure
+p1023
+sg7
+V76.1 lbs
+p1024
+sg9
+(lp1025
+VElectric\u000a	  \u000a	                
+p1026
+aVGrass\u000a	  \u000a	                
+p1027
+asg14
+V2' 07"
+p1028
+sg16
+V#120
+p1029
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/120.png
+p1030
+ssS'WIGGLYTUFF'
+p1031
+(dp1032
+g3
+VBalloon
+p1033
+sg5
+VCute Charm
+p1034
+sg7
+V26.5 lbs
+p1035
+sg9
+(lp1036
+VSteel\u000a	  \u000a	                
+p1037
+aVPoison\u000a	  \u000a	                
+p1038
+asg14
+V3' 03"
+p1039
+sg16
+V#040
+p1040
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/040.png
+p1041
+ssS'HITMONLEE'
+p1042
+(dp1043
+g3
+VKicking
+p1044
+sg5
+VLimber
+p1045
+sg7
+V109.8 lbs
+p1046
+sg9
+(lp1047
+VFlying\u000a	  \u000a	                
+p1048
+aVPsychic\u000a	  \u000a	                
+p1049
+aVFairy\u000a	  \u000a	                
+p1050
+asg14
+V4' 11"
+p1051
+sg16
+V#106
+p1052
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/106.png
+p1053
+ssS'PARASECT'
+p1054
+(dp1055
+g3
+VMushroom
+p1056
+sg5
+VEffect Spore
+p1057
+sg7
+V65.0 lbs
+p1058
+sg9
+(lp1059
+VFire\u000a	  \u000a	                
+p1060
+aVFlying\u000a	  \u000a	                
+p1061
+aVIce\u000a	  \u000a	                
+p1062
+aVPsychic\u000a	  \u000a	                
+p1063
+asg14
+V3' 03"
+p1064
+sg16
+V#047
+p1065
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/047.png
+p1066
+ssS'VILEPLUME'
+p1067
+(dp1068
+g3
+VFlower
+p1069
+sg5
+VChlorophyll
+p1070
+sg7
+V41.0 lbs
+p1071
+sg9
+g1059
+sg14
+V3' 11"
+p1072
+sg16
+V#045
+p1073
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/045.png
+p1074
+ssS'LICKITUNG'
+p1075
+(dp1076
+g3
+VLicking
+p1077
+sg5
+VOblivious
+p1078
+sg7
+V144.4 lbs
+p1079
+sg9
+(lp1080
+VFighting\u000a	  \u000a	                
+p1081
+asg14
+V3' 11"
+p1082
+sg16
+V#108
+p1083
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/108.png
+p1084
+ssS'POLIWRATH'
+p1085
+(dp1086
+g3
+VTadpole
+p1087
+sg5
+VDamp
+p1088
+sg7
+V119.0 lbs
+p1089
+sg9
+(lp1090
+VElectric\u000a	  \u000a	                
+p1091
+aVFlying\u000a	  \u000a	                
+p1092
+aVGrass\u000a	  \u000a	                
+p1093
+aVPsychic\u000a	  \u000a	                
+p1094
+aVFairy\u000a	  \u000a	                
+p1095
+asg14
+V4' 03"
+p1096
+sg16
+V#062
+p1097
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/062.png
+p1098
+ssS'LAPRAS'
+p1099
+(dp1100
+g3
+VTransport
+p1101
+sg5
+VWater Absorb
+p1102
+sg7
+V485.0 lbs
+p1103
+sg9
+(lp1104
+VElectric\u000a	  \u000a	                
+p1105
+aVFighting\u000a	  \u000a	                
+p1106
+aVGrass\u000a	  \u000a	                
+p1107
+aVRock\u000a	  \u000a	                
+p1108
+asg14
+V8' 02"
+p1109
+sg16
+V#131
+p1110
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/131.png
+p1111
+ssS'NIDORAN-FEMALE'
+p1112
+(dp1113
+g3
+VPoison Pin
+p1114
+sg5
+VPoison Point
+p1115
+sg7
+V15.4 lbs
+p1116
+sg9
+(lp1117
+VGround\u000a	  \u000a	                
+p1118
+aVPsychic\u000a	  \u000a	                
+p1119
+asg14
+V1' 04"
+p1120
+sg16
+V#029
+p1121
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/029.png
+p1122
+ssS'SEEL'
+p1123
+(dp1124
+g3
+VSea Lion
+p1125
+sg5
+VThick Fat
+p1126
+sg7
+V198.4 lbs
+p1127
+sg9
+(lp1128
+VElectric\u000a	  \u000a	                
+p1129
+aVGrass\u000a	  \u000a	                
+p1130
+asg14
+V3' 07"
+p1131
+sg16
+V#086
+p1132
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/086.png
+p1133
+ssS'DUGTRIO'
+p1134
+(dp1135
+g3
+VMole
+p1136
+sg5
+VSand Veil
+p1137
+sg7
+V73.4 lbs
+p1138
+sg9
+(lp1139
+VGrass\u000a	  \u000a	                
+p1140
+aVIce\u000a	  \u000a	                
+p1141
+aVWater\u000a	  \u000a	                
+p1142
+asg14
+V2' 04"
+p1143
+sg16
+V#051
+p1144
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/051.png
+p1145
+ssS'VULPIX'
+p1146
+(dp1147
+g3
+VFox
+p1148
+sg5
+VFlash Fire
+p1149
+sg7
+V21.8 lbs
+p1150
+sg9
+(lp1151
+VGround\u000a	  \u000a	                
+p1152
+aVRock\u000a	  \u000a	                
+p1153
+aVWater\u000a	  \u000a	                
+p1154
+asg14
+V2' 00"
+p1155
+sg16
+V#037
+p1156
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/037.png
+p1157
+ssS'NIDORAN-MALE'
+p1158
+(dp1159
+g3
+VPoison Pin
+p1160
+sg5
+VPoison Point
+p1161
+sg7
+V19.8 lbs
+p1162
+sg9
+(lp1163
+VGround\u000a	  \u000a	                
+p1164
+aVPsychic\u000a	  \u000a	                
+p1165
+asg14
+V1' 08"
+p1166
+sg16
+V#032
+p1167
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/032.png
+p1168
+ssS'NIDORINA'
+p1169
+(dp1170
+g3
+VPoison Pin
+p1171
+sg5
+VPoison Point
+p1172
+sg7
+V44.1 lbs
+p1173
+sg9
+(lp1174
+VGround\u000a	  \u000a	                
+p1175
+aVPsychic\u000a	  \u000a	                
+p1176
+asg14
+V2' 07"
+p1177
+sg16
+V#030
+p1178
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/030.png
+p1179
+ssS'SCYTHER'
+p1180
+(dp1181
+g3
+VMantis
+p1182
+sg5
+VSwarm
+p1183
+sg7
+V123.5 lbs
+p1184
+sg9
+g71
+sg14
+V4' 11"
+p1185
+sg16
+V#123
+p1186
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/123.png
+p1187
+ssS'DIGLETT'
+p1188
+(dp1189
+g3
+VMole
+p1190
+sg5
+VSand Veil
+p1191
+sg7
+V1.8 lbs
+p1192
+sg9
+(lp1193
+VGrass\u000a	  \u000a	                
+p1194
+aVIce\u000a	  \u000a	                
+p1195
+aVWater\u000a	  \u000a	                
+p1196
+asg14
+V0' 08"
+p1197
+sg16
+V#050
+p1198
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/050.png
+p1199
+ssS'MACHOKE'
+p1200
+(dp1201
+g3
+VSuperpower
+p1202
+sg5
+VGuts
+p1203
+sg7
+V155.4 lbs
+p1204
+sg9
+(lp1205
+VFlying\u000a	  \u000a	                
+p1206
+aVPsychic\u000a	  \u000a	                
+p1207
+aVFairy\u000a	  \u000a	                
+p1208
+asg14
+V4' 11"
+p1209
+sg16
+V#067
+p1210
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/067.png
+p1211
+ssS'SEAKING'
+p1212
+(dp1213
+g3
+VGoldfish
+p1214
+sg5
+VSwift Swim
+p1215
+sg7
+V86.0 lbs
+p1216
+sg9
+(lp1217
+VElectric\u000a	  \u000a	                
+p1218
+aVGrass\u000a	  \u000a	                
+p1219
+asg14
+V4' 03"
+p1220
+sg16
+V#119
+p1221
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/119.png
+p1222
+ssS'MUK'
+p1223
+(dp1224
+g3
+VSludge
+p1225
+sg5
+VStench
+p1226
+sg7
+V66.1 lbs
+p1227
+sg9
+(lp1228
+VGround\u000a	  \u000a	                
+p1229
+aVPsychic\u000a	  \u000a	                
+p1230
+asg14
+V3' 11"
+p1231
+sg16
+V#089
+p1232
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/089.png
+p1233
+ssS'GENGAR'
+p1234
+(dp1235
+g3
+VShadow
+p1236
+sg5
+VLevitate
+p1237
+sg7
+V89.3 lbs
+p1238
+sg9
+g735
+sg14
+V4' 11"
+p1239
+sg16
+V#094
+p1240
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/094.png
+p1241
+ssS'HAUNTER'
+p1242
+(dp1243
+g3
+VGas
+p1244
+sg5
+VLevitate
+p1245
+sg7
+V0.2 lbs
+p1246
+sg9
+(lp1247
+VDark\u000a	  \u000a	                
+p1248
+aVGhost\u000a	  \u000a	                
+p1249
+aVPsychic\u000a	  \u000a	                
+p1250
+asg14
+V5' 03"
+p1251
+sg16
+V#093
+p1252
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/093.png
+p1253
+ssS'GEODUDE'
+p1254
+(dp1255
+g3
+VRock
+p1256
+sg5
+VRock Head
+p1257
+sg7
+V44.1 lbs
+p1258
+sg9
+g25
+sg14
+V1' 04"
+p1259
+sg16
+V#074
+p1260
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/074.png
+p1261
+ssS'MOLTRES'
+p1262
+(dp1263
+g3
+VFlame
+p1264
+sg5
+VPressure
+p1265
+sg7
+V132.3 lbs
+p1266
+sg9
+(lp1267
+VRock\u000a	  \u000a	                  \u000a
+p1268
+aVElectric\u000a	  \u000a	                
+p1269
+aVWater\u000a	  \u000a	                
+p1270
+asg14
+V6' 07"
+p1271
+sg16
+V#146
+p1272
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/146.png
+p1273
+ssS'PIDGEOTTO'
+p1274
+(dp1275
+g3
+VBird
+p1276
+sg5
+VKeen Eye
+p1277
+sg7
+V66.1 lbs
+p1278
+sg9
+(lp1279
+VElectric\u000a	  \u000a	                
+p1280
+aVIce\u000a	  \u000a	                
+p1281
+aVRock\u000a	  \u000a	                
+p1282
+asg14
+V3' 07"
+p1283
+sg16
+V#017
+p1284
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/017.png
+p1285
+ssS'MAGNETON'
+p1286
+(dp1287
+g3
+VMagnet
+p1288
+sg5
+VSturdy
+p1289
+sg7
+V132.3 lbs
+p1290
+sg9
+(lp1291
+VGround\u000a	  \u000a	                  \u000a
+p1292
+aVFire\u000a	  \u000a	                
+p1293
+aVFighting\u000a	  \u000a	                
+p1294
+asg14
+V3' 03"
+p1295
+sg16
+V#082
+p1296
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/082.png
+p1297
+ssS'TENTACOOL'
+p1298
+(dp1299
+g3
+VJellyfish
+p1300
+sg5
+VClear Body
+p1301
+sg7
+V100.3 lbs
+p1302
+sg9
+(lp1303
+VElectric\u000a	  \u000a	                
+p1304
+aVGround\u000a	  \u000a	                
+p1305
+aVPsychic\u000a	  \u000a	                
+p1306
+asg14
+V2' 11"
+p1307
+sg16
+V#072
+p1308
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/072.png
+p1309
+ssS'DITTO'
+p1310
+(dp1311
+g3
+VTransform
+p1312
+sg5
+VLimber
+p1313
+sg7
+V8.8 lbs
+p1314
+sg9
+(lp1315
+VFighting\u000a	  \u000a	                
+p1316
+asg14
+V1' 00"
+p1317
+sg16
+V#132
+p1318
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/132.png
+p1319
+ssS'JIGGLYPUFF'
+p1320
+(dp1321
+g3
+VBalloon
+p1322
+sg5
+VCute Charm
+p1323
+sg7
+V12.1 lbs
+p1324
+sg9
+(lp1325
+VSteel\u000a	  \u000a	                
+p1326
+aVPoison\u000a	  \u000a	                
+p1327
+asg14
+V1' 08"
+p1328
+sg16
+V#039
+p1329
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/039.png
+p1330
+ssS'KOFFING'
+p1331
+(dp1332
+g3
+VPoison Gas
+p1333
+sg5
+VLevitate
+p1334
+sg7
+V2.2 lbs
+p1335
+sg9
+(lp1336
+VPsychic\u000a	  \u000a	                
+p1337
+asg14
+V2' 00"
+p1338
+sg16
+V#109
+p1339
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/109.png
+p1340
+ssS'GASTLY'
+p1341
+(dp1342
+g3
+VGas
+p1343
+sg5
+VLevitate
+p1344
+sg7
+V0.2 lbs
+p1345
+sg9
+(lp1346
+VDark\u000a	  \u000a	                
+p1347
+aVGhost\u000a	  \u000a	                
+p1348
+aVPsychic\u000a	  \u000a	                
+p1349
+asg14
+V4' 03"
+p1350
+sg16
+V#092
+p1351
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/092.png
+p1352
+ssS'MAGIKARP'
+p1353
+(dp1354
+g3
+VFish
+p1355
+sg5
+VSwift Swim
+p1356
+sg7
+V22.0 lbs
+p1357
+sg9
+(lp1358
+VElectric\u000a	  \u000a	                
+p1359
+aVGrass\u000a	  \u000a	                
+p1360
+asg14
+V2' 11"
+p1361
+sg16
+V#129
+p1362
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/129.png
+p1363
+ssS'GOLDUCK'
+p1364
+(dp1365
+g3
+VDuck
+p1366
+sg5
+VDamp
+p1367
+sg7
+V168.9 lbs
+p1368
+sg9
+(lp1369
+VElectric\u000a	  \u000a	                
+p1370
+aVGrass\u000a	  \u000a	                
+p1371
+asg14
+V5' 07"
+p1372
+sg16
+V#055
+p1373
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/055.png
+p1374
+ssS'CATERPIE'
+p1375
+(dp1376
+g3
+VWorm
+p1377
+sg5
+VShield Dust
+p1378
+sg7
+V6.4 lbs
+p1379
+sg9
+(lp1380
+VFire\u000a	  \u000a	                
+p1381
+aVFlying\u000a	  \u000a	                
+p1382
+aVRock\u000a	  \u000a	                
+p1383
+asg14
+V1' 00"
+p1384
+sg16
+V#010
+p1385
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/010.png
+p1386
+ssS'PARAS'
+p1387
+(dp1388
+g3
+VMushroom
+p1389
+sg5
+VEffect Spore
+p1390
+sg7
+V11.9 lbs
+p1391
+sg9
+g1059
+sg14
+V1' 00"
+p1392
+sg16
+V#046
+p1393
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/046.png
+p1394
+ssS'KAKUNA'
+p1395
+(dp1396
+g3
+VCocoon
+p1397
+sg5
+VShed Skin
+p1398
+sg7
+V22.0 lbs
+p1399
+sg9
+(lp1400
+VFire\u000a	  \u000a	                
+p1401
+aVFlying\u000a	  \u000a	                
+p1402
+aVPsychic\u000a	  \u000a	                
+p1403
+aVRock\u000a	  \u000a	                
+p1404
+asg14
+V2' 00"
+p1405
+sg16
+V#014
+p1406
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/014.png
+p1407
+ssS'NIDOKING'
+p1408
+(dp1409
+g3
+VDrill
+p1410
+sg5
+VPoison Point
+p1411
+sg7
+V136.7 lbs
+p1412
+sg9
+(lp1413
+VGround\u000a	  \u000a	                
+p1414
+aVIce\u000a	  \u000a	                
+p1415
+aVPsychic\u000a	  \u000a	                
+p1416
+aVWater\u000a	  \u000a	                
+p1417
+asg14
+V4' 07"
+p1418
+sg16
+V#034
+p1419
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/034.png
+p1420
+ssS'NINETALES'
+p1421
+(dp1422
+g3
+VFox
+p1423
+sg5
+VFlash Fire
+p1424
+sg7
+V43.9 lbs
+p1425
+sg9
+(lp1426
+VGround\u000a	  \u000a	                
+p1427
+aVRock\u000a	  \u000a	                
+p1428
+aVWater\u000a	  \u000a	                
+p1429
+asg14
+V3' 07"
+p1430
+sg16
+V#038
+p1431
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/038.png
+p1432
+ssS'ZUBAT'
+p1433
+(dp1434
+g3
+VBat
+p1435
+sg5
+VInner Focus
+p1436
+sg7
+V16.5 lbs
+p1437
+sg9
+(lp1438
+VElectric\u000a	  \u000a	                
+p1439
+aVIce\u000a	  \u000a	                
+p1440
+aVPsychic\u000a	  \u000a	                
+p1441
+aVRock\u000a	  \u000a	                
+p1442
+asg14
+V2' 07"
+p1443
+sg16
+V#041
+p1444
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/041.png
+p1445
+ssS'WEEDLE'
+p1446
+(dp1447
+g3
+VHairy Bug
+p1448
+sg5
+VShield Dust
+p1449
+sg7
+V7.1 lbs
+p1450
+sg9
+(lp1451
+VFire\u000a	  \u000a	                
+p1452
+aVFlying\u000a	  \u000a	                
+p1453
+aVPsychic\u000a	  \u000a	                
+p1454
+aVRock\u000a	  \u000a	                
+p1455
+asg14
+V1' 00"
+p1456
+sg16
+V#013
+p1457
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/013.png
+p1458
+ssS'HORSEA'
+p1459
+(dp1460
+g3
+VDragon
+p1461
+sg5
+VSwift Swim
+p1462
+sg7
+V17.6 lbs
+p1463
+sg9
+(lp1464
+VElectric\u000a	  \u000a	                
+p1465
+aVGrass\u000a	  \u000a	                
+p1466
+asg14
+V1' 04"
+p1467
+sg16
+V#116
+p1468
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/116.png
+p1469
+ssS'VENOMOTH'
+p1470
+(dp1471
+g3
+VPoison Moth
+p1472
+sg5
+VShield Dust
+p1473
+sg7
+V27.6 lbs
+p1474
+sg9
+(lp1475
+VFire\u000a	  \u000a	                
+p1476
+aVFlying\u000a	  \u000a	                
+p1477
+aVPsychic\u000a	  \u000a	                
+p1478
+aVRock\u000a	  \u000a	                
+p1479
+asg14
+V4' 11"
+p1480
+sg16
+V#049
+p1481
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/049.png
+p1482
+ssS'MACHAMP'
+p1483
+(dp1484
+g3
+VSuperpower
+p1485
+sg5
+VGuts
+p1486
+sg7
+V286.6 lbs
+p1487
+sg9
+(lp1488
+VFlying\u000a	  \u000a	                
+p1489
+aVPsychic\u000a	  \u000a	                
+p1490
+aVFairy\u000a	  \u000a	                
+p1491
+asg14
+V5' 03"
+p1492
+sg16
+V#068
+p1493
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/068.png
+p1494
+ssS'VICTREEBEL'
+p1495
+(dp1496
+g3
+VFlycatcher
+p1497
+sg5
+VChlorophyll
+p1498
+sg7
+V34.2 lbs
+p1499
+sg9
+(lp1500
+VFire\u000a	  \u000a	                
+p1501
+aVFlying\u000a	  \u000a	                
+p1502
+aVIce\u000a	  \u000a	                
+p1503
+aVPsychic\u000a	  \u000a	                
+p1504
+asg14
+V5' 07"
+p1505
+sg16
+V#071
+p1506
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/071.png
+p1507
+ssS'WARTORTLE'
+p1508
+(dp1509
+g3
+VTurtle
+p1510
+sg5
+VTorrent
+p1511
+sg7
+V49.6 lbs
+p1512
+sg9
+(lp1513
+VElectric\u000a	  \u000a	                
+p1514
+aVGrass\u000a	  \u000a	                
+p1515
+asg14
+V3' 03"
+p1516
+sg16
+V#008
+p1517
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/008.png
+p1518
+ssS'VENONAT'
+p1519
+(dp1520
+g3
+VInsect
+p1521
+sg5
+VCompound Eyes
+p1522
+sg7
+V66.1 lbs
+p1523
+sg9
+(lp1524
+VFire\u000a	  \u000a	                
+p1525
+aVFlying\u000a	  \u000a	                
+p1526
+aVPsychic\u000a	  \u000a	                
+p1527
+aVRock\u000a	  \u000a	                
+p1528
+asg14
+V3' 03"
+p1529
+sg16
+V#048
+p1530
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/048.png
+p1531
+ssS'NIDORINO'
+p1532
+(dp1533
+g3
+VPoison Pin
+p1534
+sg5
+VPoison Point
+p1535
+sg7
+V43.0 lbs
+p1536
+sg9
+(lp1537
+VGround\u000a	  \u000a	                
+p1538
+aVPsychic\u000a	  \u000a	                
+p1539
+asg14
+V2' 11"
+p1540
+sg16
+V#033
+p1541
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/033.png
+p1542
+ssS'KINGLER'
+p1543
+(dp1544
+g3
+VPincer
+p1545
+sg5
+VShell Armor
+p1546
+sg7
+V132.3 lbs
+p1547
+sg9
+(lp1548
+VElectric\u000a	  \u000a	                
+p1549
+aVGrass\u000a	  \u000a	                
+p1550
+asg14
+V4' 03"
+p1551
+sg16
+V#099
+p1552
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/099.png
+p1553
+ssS'OMANYTE'
+p1554
+(dp1555
+g3
+VSpiral
+p1556
+sg5
+VShell Armor
+p1557
+sg7
+V16.5 lbs
+p1558
+sg9
+(lp1559
+VGrass\u000a	  \u000a	                  \u000a
+p1560
+aVElectric\u000a	  \u000a	                
+p1561
+aVFighting\u000a	  \u000a	                
+p1562
+aVGround\u000a	  \u000a	                
+p1563
+asg14
+V1' 04"
+p1564
+sg16
+V#138
+p1565
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/138.png
+p1566
+ssS'PORYGON'
+p1567
+(dp1568
+g3
+VVirtual
+p1569
+sg5
+VTrace
+p1570
+sg7
+V80.5 lbs
+p1571
+sg9
+(lp1572
+VFighting\u000a	  \u000a	                
+p1573
+asg14
+V2' 07"
+p1574
+sg16
+V#137
+p1575
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/137.png
+p1576
+ssS'PIKACHU'
+p1577
+(dp1578
+g3
+VMouse
+p1579
+sg5
+VStatic
+p1580
+sg7
+V13.2 lbs
+p1581
+sg9
+(lp1582
+VGround\u000a	  \u000a	                
+p1583
+asg14
+V1' 04"
+p1584
+sg16
+V#025
+p1585
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/025.png
+p1586
+ssS'DROWZEE'
+p1587
+(dp1588
+g3
+VHypnosis
+p1589
+sg5
+VInsomnia
+p1590
+sg7
+V71.4 lbs
+p1591
+sg9
+(lp1592
+VBug\u000a	  \u000a	                
+p1593
+aVDark\u000a	  \u000a	                
+p1594
+aVGhost\u000a	  \u000a	                
+p1595
+asg14
+V3' 03"
+p1596
+sg16
+V#096
+p1597
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/096.png
+p1598
+ssS'TAUROS'
+p1599
+(dp1600
+g3
+VWild Bull
+p1601
+sg5
+VIntimidate
+p1602
+sg7
+V194.9 lbs
+p1603
+sg9
+(lp1604
+VFighting\u000a	  \u000a	                
+p1605
+asg14
+V4' 07"
+p1606
+sg16
+V#128
+p1607
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/128.png
+p1608
+ssS'TENTACRUEL'
+p1609
+(dp1610
+g3
+VJellyfish
+p1611
+sg5
+VClear Body
+p1612
+sg7
+V121.3 lbs
+p1613
+sg9
+g25
+sg14
+V5' 03"
+p1614
+sg16
+V#073
+p1615
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/073.png
+p1616
+ssS'BELLSPROUT'
+p1617
+(dp1618
+g3
+VFlower
+p1619
+sg5
+VChlorophyll
+p1620
+sg7
+V8.8 lbs
+p1621
+sg9
+(lp1622
+VFire\u000a	  \u000a	                
+p1623
+aVFlying\u000a	  \u000a	                
+p1624
+aVIce\u000a	  \u000a	                
+p1625
+aVPsychic\u000a	  \u000a	                
+p1626
+asg14
+V2' 04"
+p1627
+sg16
+V#069
+p1628
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/069.png
+p1629
+ssS'KABUTOPS'
+p1630
+(dp1631
+g3
+VShellfish
+p1632
+sg5
+VSwift Swim
+p1633
+sg7
+V89.3 lbs
+p1634
+sg9
+(lp1635
+VGrass\u000a	  \u000a	                  \u000a
+p1636
+aVElectric\u000a	  \u000a	                
+p1637
+aVFighting\u000a	  \u000a	                
+p1638
+aVGround\u000a	  \u000a	                
+p1639
+asg14
+V4' 03"
+p1640
+sg16
+V#141
+p1641
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/141.png
+p1642
+ssS'VAPOREON'
+p1643
+(dp1644
+g3
+VBubble Jet
+p1645
+sg5
+VWater Absorb
+p1646
+sg7
+V63.9 lbs
+p1647
+sg9
+(lp1648
+VElectric\u000a	  \u000a	                
+p1649
+aVGrass\u000a	  \u000a	                
+p1650
+asg14
+V3' 03"
+p1651
+sg16
+V#134
+p1652
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/134.png
+p1653
+ssS'CHANSEY'
+p1654
+(dp1655
+g3
+VEgg
+p1656
+sg5
+VNatural Cure
+p1657
+sg7
+V76.3 lbs
+p1658
+sg9
+(lp1659
+VFighting\u000a	  \u000a	                
+p1660
+asg14
+V3' 07"
+p1661
+sg16
+V#113
+p1662
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/113.png
+p1663
+ssS'POLIWHIRL'
+p1664
+(dp1665
+g3
+VTadpole
+p1666
+sg5
+VDamp
+p1667
+sg7
+V44.1 lbs
+p1668
+sg9
+(lp1669
+VElectric\u000a	  \u000a	                
+p1670
+aVGrass\u000a	  \u000a	                
+p1671
+asg14
+V3' 03"
+p1672
+sg16
+V#061
+p1673
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/061.png
+p1674
+ssS'GOLBAT'
+p1675
+(dp1676
+g3
+VBat
+p1677
+sg5
+VInner Focus
+p1678
+sg7
+V121.3 lbs
+p1679
+sg9
+(lp1680
+VElectric\u000a	  \u000a	                
+p1681
+aVIce\u000a	  \u000a	                
+p1682
+aVPsychic\u000a	  \u000a	                
+p1683
+aVRock\u000a	  \u000a	                
+p1684
+asg14
+V5' 03"
+p1685
+sg16
+V#042
+p1686
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/042.png
+p1687
+ssS'ABRA'
+p1688
+(dp1689
+g3
+VPsi
+p1690
+sg5
+VInner Focus
+p1691
+sg7
+V43.0 lbs
+p1692
+sg9
+(lp1693
+VBug\u000a	  \u000a	                
+p1694
+aVDark\u000a	  \u000a	                
+p1695
+aVGhost\u000a	  \u000a	                
+p1696
+asg14
+V2' 11"
+p1697
+sg16
+V#063
+p1698
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/063.png
+p1699
+ssS'MANKEY'
+p1700
+(dp1701
+g3
+VPig Monkey
+p1702
+sg5
+VVital Spirit
+p1703
+sg7
+V61.7 lbs
+p1704
+sg9
+(lp1705
+VFlying\u000a	  \u000a	                
+p1706
+aVPsychic\u000a	  \u000a	                
+p1707
+aVFairy\u000a	  \u000a	                
+p1708
+asg14
+V1' 08"
+p1709
+sg16
+V#056
+p1710
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/056.png
+p1711
+ssS'CLEFAIRY'
+p1712
+(dp1713
+g3
+VFairy
+p1714
+sg5
+VCute Charm
+p1715
+sg7
+V16.5 lbs
+p1716
+sg9
+(lp1717
+VSteel\u000a	  \u000a	                
+p1718
+aVPoison\u000a	  \u000a	                
+p1719
+asg14
+V2' 00"
+p1720
+sg16
+V#035
+p1721
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/035.png
+p1722
+ssS'RAPIDASH'
+p1723
+(dp1724
+g3
+VFire Horse
+p1725
+sg5
+VRun Away
+p1726
+sg7
+V209.4 lbs
+p1727
+sg9
+(lp1728
+VGround\u000a	  \u000a	                
+p1729
+aVRock\u000a	  \u000a	                
+p1730
+aVWater\u000a	  \u000a	                
+p1731
+asg14
+V5' 07"
+p1732
+sg16
+V#078
+p1733
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/078.png
+p1734
+ssS'HITMONCHAN'
+p1735
+(dp1736
+g3
+VPunching
+p1737
+sg5
+VKeen Eye
+p1738
+sg7
+V110.7 lbs
+p1739
+sg9
+(lp1740
+VFlying\u000a	  \u000a	                
+p1741
+aVPsychic\u000a	  \u000a	                
+p1742
+aVFairy\u000a	  \u000a	                
+p1743
+asg14
+V4' 07"
+p1744
+sg16
+V#107
+p1745
+sg18
+Vhttps://assets.pokemon.com/assets/cms2/img/pokedex/full/107.png
+p1746
+ss.
