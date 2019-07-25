@@ -1,0 +1,5 @@
+You ordered Çay price: 1.5TL calories: 316 kcal
+You ordered Böğürtlen price: 5.0TL calories: 217 kcal
+
+--------------------
+Total calories :  533
